@@ -1,2 +1,2 @@
 # Tanvi-GDSC-ML_Task
-GDSC ML task calculator Q1
+GDSC ML tasks i tried: calculator , random password, kmeans iris data
